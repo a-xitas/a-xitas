@@ -16,4 +16,6 @@
      
 
 - [My TryHackMe Profile](https://tryhackme.com/p/a.xitas):
-<img src="https://tryhackme-badges.s3.amazonaws.com/a.xitas.png" alt="TryHackMe">
+  
+![image](https://github.com/user-attachments/assets/48a6aa1d-c43f-4fd6-8baa-850291098cd2)
+
