@@ -6,6 +6,8 @@
 - 📫 You can reach me at abspi@tutanota.com otherwise, send a pigeon 😄
 - ⚡ Fun facts: I always have profound issues giving up.
    When I was a kid, my favourite question was WHY? Followed by an answer only to hear another, WHY? Still is today :grin:. Always brush my teeth with both ands: left for the morning, and right for the evening :smile:. Always avoid to go under temporary structures :grimacing:. Always leave the burnt part of the bread to the pigeons. I can never feel my hands dirty that I always have to rush to clean them.
+- 💬 Favourite Quotes: <em>“If there is a solution to a problem, there is no need to worry. And if there is no solution, there is no need to worry.”</em> -- Dalai Lama XIV
+
 - THM Badges:
   
     . [Phishing](https://tryhackme.com/a.xitas/badges/phishing)  . [OWASP Top 10](https://tryhackme.com/a.xitas/badges/owasp-10)  . [Metasploitable](https://tryhackme.com/a.xitas/badges/metasploitable)  . [Burp'ed](https://tryhackme.com/a.xitas/badges/burped)  . [Intro to Web Hacking](https://tryhackme.com/a.xitas/badges/intro-to-web-hacking)  . [7 Day Streak](https://tryhackme.com/a.xitas/badges/7-day-streak)  . [30 Day Streak](https://tryhackme.com/a.xitas/badges/30-day-streak)  . [Pentesting Principles](https://tryhackme.com/a.xitas/badges/intro-to-pentesting)  . [cat linux.txt](https://tryhackme.com/a.xitas/badges/terminaled)  . [World Wide Web](https://tryhackme.com/a.xitas/badges/world-wide-web)  . [Webbed](https://tryhackme.com/a.xitas/badges/web-fund) . [Networking Nerd](https://tryhackme.com/a.xitas/badges/network-fundamentals)
