@@ -6,7 +6,7 @@
 - 📫 You can reach me at abspi@tutanota.com otherwise, send a pigeon 😄
 - ⚡ Fun facts: I always have profound issues giving up.
    When I was a kid, my favourite question was WHY? Followed by an answer only to hear another, WHY? Still is today :grin:. Always brush my teeth with both ands: left for the morning, and right for the evening :smile:. Always avoid to go under temporary structures :grimacing:. Always leave the burnt part of the bread to the pigeons. I can never feel my hands dirty that I always have to rush to clean them.
-- 💬 Favourite Quotes: <em>“If there is a solution to a problem, there is no need to worry. And if there is no solution, there is no need to worry.”</em> -- Dalai Lama XIV
+- 💬 Favourite Quotes: <em>“If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever</em> -- Dalai Lama XIV
 
 - THM Badges:
   
